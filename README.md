@@ -37,7 +37,7 @@ paper2:
    title: Big Data Analytics and influence on althetics.
    abstract: Looking at how big data is influencing people getting in shape with athletic wear.
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
-   type: word
+   type: latex
 ```
    
 # Project
