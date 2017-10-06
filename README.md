@@ -19,11 +19,11 @@ paper1:
    - 345
    title: Big data analytics in the entertaiment industry.
    abstract: >
-      This paper will cover how big data analysis is influencing the
-      entertainment industry. 
+      This paper will cover how big data analysis can be used to weaponize social media in a way that users work against their own intersts. 
    url: https://github.com/bigdata-i523/hid345/paper1/paper1.pdf
    type: word
-   chapter: Media
+   chapter: latex
+   status: 85%
 ```
    
 # Paper 2
