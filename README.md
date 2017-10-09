@@ -17,13 +17,12 @@ paper1:
    - Ross Wood
    hid:
    - 345
-   title: Big data analytics in the entertaiment industry.
+   title: Big Data Dangers: Weaponizing Social Media.
    abstract: >
-      This paper will cover how big data analysis can be used to weaponize social media in a way that users work against their own intersts. 
-   url: https://github.com/bigdata-i523/hid345/paper1/paper1.pdf
-   type: word
-   chapter: latex
-   status: 85%
+      This paper will cover how big data analysis can be used to weaponize social media in a way that users work against their own interests. 
+   url: https://github.com/bigdata-i523/hid345/blob/master/paper1/report.tex
+   type: latex
+   status: 100%
 ```
    
 # Paper 2
