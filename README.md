@@ -17,7 +17,7 @@ paper1:
    - Ross Wood
    hid:
    - 345
-   title: Big Data Danger - Weaponizing Social Media.
+   title: "Big Data Danger: Weaponizing Social Media."
    abstract: >
        This paper will cover how big data analysis can be used to
        weaponize social media in a way that users work against their own
