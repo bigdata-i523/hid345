@@ -20,7 +20,7 @@ paper1:
    title: Big Data Dangers: Weaponizing Social Media.
    abstract: >
       This paper will cover how big data analysis can be used to weaponize social media in a way that users work against their own interests. 
-   url: https://github.com/bigdata-i523/hid345/blob/master/paper1/report.tex
+   url: https://github.com/bigdata-i523/hid345/paper1/report.pdf
    type: latex
    chapter: Theory
    status: 100%
