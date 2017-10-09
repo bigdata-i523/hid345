@@ -22,7 +22,7 @@ paper1:
       This paper will cover how big data analysis can be used to weaponize social media in a way that users work against their own interests. 
    url: https://github.com/bigdata-i523/hid345/paper1/report.pdf
    type: latex
-   chapter: Theory
+   chapter: TBD
    status: 100%
 ```
    
