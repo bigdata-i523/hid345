@@ -13,16 +13,18 @@ owner:
 
 ```
 paper1:
-   author: 
+   author:
    - Ross Wood
    hid:
    - 345
-   title: Big Data Dangers: Weaponizing Social Media.
+   title: Big Data Danger - Weaponizing Social Media.
    abstract: >
-      This paper will cover how big data analysis can be used to weaponize social media in a way that users work against their own interests. 
+       This paper will cover how big data analysis can be used to
+       weaponize social media in a way that users work against their own
+       interests.
    url: https://github.com/bigdata-i523/hid345/paper1/report.pdf
    type: latex
-   chapter: TBD
+   chapter: Media
    status: 100%
 ```
    
@@ -36,7 +38,7 @@ paper2:
    - 345
    title: Big Data Analytics and influence on althetics.
    abstract: Looking at how big data is influencing people getting in shape with athletic wear.
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
    type: latex
 ```
    
