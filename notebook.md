@@ -18,3 +18,5 @@
 * 09/25/17 Wrote paper 1 rough draft
 * 10/03/17 Editing paper one - learning sharelatex
 * 10/05/17 Final Changes
+* 10/08/17 Used JabRef to create Ref. page, finished formatting and editing paper.
+* 10/09/17 Submitted paper1
