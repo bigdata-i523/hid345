@@ -20,3 +20,4 @@
 * 10/05/17 Final Changes
 * 10/08/17 Used JabRef to create Ref. page, finished formatting and editing paper.
 * 10/09/17 Updated report.tex and report.bib in paper1
+* 10/17/17 Updated README.yml, per instructions in piazza
