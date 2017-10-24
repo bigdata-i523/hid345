@@ -11,8 +11,17 @@ owner:
     photo: https://i.imgur.com/UhbqcxE.jpg
 paper1:
     abstract: >
-        This paper will cover how big data analysis can be used to weaponize
-        social media in a way that users work against their own interests.
+        Social media has changed the way people get information, disseminate
+        information, communicate, and stay in touch with others,
+        both online and in the real world. As more and more people from
+        different age groups and socioeconomic backgrounds begin adopting
+        social media and becoming active users, data is being created at a
+        geometric rate. The analysis of all this data being generated can be
+        used in a myriad of different ways, including nefarious ones. It is
+        possible to analyze the digital footprint of social media users in
+        order to accurately target enormous swaths of a population with
+        propaganda, misinformation, and deception which have been created to
+        cater to the specific population's social or political bias.
     author:
         - Ross Wood
     chapter: Media
