@@ -4,7 +4,8 @@
 
 # Theory
 
-* 09/30/17 Finished all videos
+* 09/30/17 Caught up on videos
+* 10/25/17 Caught up on videos
 
 # Practice
 
@@ -24,3 +25,4 @@
 * 10/17/17 Updated README.yml, per instructions in piazza
 * 10/19/17 Began researching and gathering sources for paper 2
 * 10/22/17 Began rough draft of paper 2
+* 10/24/17 Wrote review of HID233's paper on Piazza
