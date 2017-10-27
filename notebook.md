@@ -5,7 +5,7 @@
 # Theory
 
 * 09/30/17 Caught up on videos
-* 10/25/17 Caught up on videos
+* 10/26/17 Caught up on videos
 
 # Practice
 
