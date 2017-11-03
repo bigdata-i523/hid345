@@ -11,6 +11,7 @@
 
 * 09/09/17 Purchased rasphberry pi 3
 * 10/20/17 Began working on practice track
+* 11/01/17 Wrote jupyter notebook code that briefly explaiened pandas and scraped twitter for experiment
 
 # Writing
 
@@ -26,3 +27,4 @@
 * 10/19/17 Began researching and gathering sources for paper 2
 * 10/22/17 Began rough draft of paper 2
 * 10/24/17 Wrote review of HID233's paper on Piazza
+* 10/30/17 Finished up rough draft of paper 2
