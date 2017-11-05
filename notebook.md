@@ -28,3 +28,4 @@
 * 10/22/17 Began rough draft of paper 2
 * 10/24/17 Wrote review of HID233's paper on Piazza
 * 10/30/17 Finished up rough draft of paper 2
+* 11/05/17 Put finishing touches on final paper 2, create bib entries
