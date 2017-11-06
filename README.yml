@@ -1,15 +1,14 @@
 ---
 owner:
     hid: 345
-    name: Wood, Ross
-    firstname: Ross
-    lastname: Wood
-    longitude: 39.0793 N
-    latitude: 86.4389 W
-    city: Bloomington, IN
+    name: Ross Wood
     url: https://github.com/bigdata-i523/hid345
-    photo: https://i.imgur.com/UhbqcxE.jpg
 paper1:
+    author:
+        - Ross Wood
+    hid:
+        - 345
+    title: Big Data and Edge Computing
     abstract: >
         Social media has changed the way people get information, disseminate
         information, communicate, and stay in touch with others,
@@ -22,51 +21,45 @@ paper1:
         order to accurately target enormous swaths of a population with
         propaganda, misinformation, and deception which have been created to
         cater to the specific population's social or political bias.
-    author:
-        - Ross Wood
-    chapter: Media
-    hid:
-        - 345
-    status: 100% re-review on 10/25/17
-    title: 'Big Data Danger: Weaponizing Social Media.'
-    type: latex
     url: https://github.com/bigdata-i523/hid345/paper1/report.pdf
+    status: 100% re-review on 10/25/17
+    chapter: Media
 paper2:
     review: Nov 6 2017
-    abstract: >
-        As the world becomes more technologically advanced, more and more work is being
-        done on computers digitally versus in the real world physically. This shift in
-        how work is done is creating a situation where huge swaths of people are sitting
-        down for longer periods of time than is medically recommended for healthy living.
-        For many, this has created the need for more exercise and athleticism than what
-        one typically gets in a normal day. This occupational atrophy is one of the
-        driving forces in the development of technology that monitors and datafies the
-        user's day-to-day physical activity and vital signs. All this new data being
-        created is helping make improvements in the lives of those with sedentary jobs,
-        while also revealing new techniques and applications for already existing training
-        or exercise programs. The data is being generated at an increasing rate from the
-        growing number of users who track their activity with the use of sports trackers,
-        smart clothing or athletic wear, and mobile phones. The applications of this data
-        are not limited to improving the health of office workers and other employees
-        whose jobs or lives require low physical activity. The datafication of physical
-        fitness and activity is also changing the way professional athletes and coaches
-        approach their training regiments, as well as having military applications in
-        regards to training personnel.
-    author:
+    Author:
         - Ross Wood
-    chapter: TBD
     hid:
         - 345
-    status: 100%
     title: How the Datafication of Activity is Improving Human Health
-    type: latex
-    url: https://github.com/bigdata-i523/hid345/blob/master/paper2/report.tex
-project2:
+    abstract: >
+        As the world becomes more technologically advanced, more and more work is 
+        being done on computers digitally versus in the real world physically. This 
+        shift in how work is done is creating a situation where huge swaths of people 
+        are sitting down for longer periods of time than is medically recommended 
+        for healthy living. For many, this has created the need for more exercise 
+        and athleticism than what one typically gets in a normal day. This 
+        occupational atrophy is one of the driving forces in the development of 
+        technology that monitors and generates data of the user's day-to-day physical 
+        activity and vital signs. All this new data being created is helping make 
+        improvements in the lives of those with sedentary jobs, while also revealing 
+        new techniques and applications for already existing training or exercise 
+        programs. The data is being generated at an increasing rate from the growing 
+        number of users who track their activity with the use of sports trackers, 
+        smart clothing or athletic wear, and mobile phones. The applications of 
+        this data are not limited to improving the health of office workers and other 
+        employees whose jobs or lives require low physical activity. The datafication 
+        of physical fitness and activity is also changing the way professional 
+        athletes and coaches approach their training regiments, as well as having 
+        military applications in regards to training personnel.
+    url: https://github.com/bigdata-i523/hid345/blob/master/paper2/
+    status: 100%
+    chapter: TBD
+project:
     abstract: This paper showcases tis and that and the other
     author:
-        - Gregor von Laszewski
+        - Ross Wood
     hid:
-        - 0
-    title: Benchmarking a BigData Docker deployment
+        - 345
+    title: TBD
     type: latex
-    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    url: https://github.com/bigdata-i523/hid345/tree/master/project
