@@ -26,11 +26,6 @@ paper1:
     chapter: Media
 paper2:
     review: Nov 6 2017
-    Author:
-        - Ross Wood
-    hid:
-        - 345
-    title: How the Datafication of Activity is Improving Human Health
     abstract: >
         As the world becomes more technologically advanced, more and more work is 
         being done on computers digitally versus in the real world physically. This 
@@ -51,9 +46,15 @@ paper2:
         of physical fitness and activity is also changing the way professional 
         athletes and coaches approach their training regiments, as well as having 
         military applications in regards to training personnel.
-    url: https://github.com/bigdata-i523/hid345/blob/master/paper2/
-    status: 100%
+    author:
+        - Ross Wood
     chapter: TBD
+    hid:
+        - 345
+    status: 100%
+    title: How the Datafication of Activity is Improving Human Health
+    type: latex
+    url: https://github.com/bigdata-i523/hid345/blob/master/paper2/
 project:
     abstract: This paper showcases tis and that and the other
     author:
