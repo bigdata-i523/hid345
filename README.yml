@@ -4,11 +4,6 @@ owner:
     name: Ross Wood
     url: https://github.com/bigdata-i523/hid345
 paper1:
-    author:
-        - Ross Wood
-    hid:
-        - 345
-    title: Big Data Dangers Weaponizing Social Media
     abstract: >
         Social media has changed the way people get information, disseminate
         information, communicate, and stay in touch with others,
@@ -21,8 +16,15 @@ paper1:
         order to accurately target enormous swaths of a population with
         propaganda, misinformation, and deception which have been created to
         cater to the specific population's social or political bias.
-    url: https://github.com/bigdata-i523/hid345/paper1/
+    author:
+        - Ross Wood
+    chapter: Media
+    hid:
+        - 345
     status: 100% re-review on 10/25/17
+    title: Big Data Dangers Weaponizing Social Media
+    url: https://github.com/bigdata-i523/hid345/paper1/
+    
     chapter: Media
 paper2:
     review: Nov 6 2017
