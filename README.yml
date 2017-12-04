@@ -24,7 +24,7 @@ paper1:
     status: 100% re-review on 10/25/17
     title: Big Data Dangers Weaponizing Social Media
     type: latex
-    url: https://github.com/bigdata-i523/hid345/paper1/  
+    url: https://github.com/bigdata-i523/hid345/blob/master/paper1
 paper2:
     review: Nov 6 2017
     abstract: >
@@ -55,13 +55,40 @@ paper2:
     status: 100%
     title: How the Datafication of Activity is Improving Human Health
     type: latex
-    url: https://github.com/bigdata-i523/hid345/blob/master/paper2/
+    url: https://github.com/bigdata-i523/hid345/blob/master/paper2
 project:
-    abstract: This paper showcases tis and that and the other
+    review: Dec 4 2017
+    abstract: As the human population swells to staggering numbers that historians
+    of yesteryear could not imagine, one very important question seems to keep
+    coming up over and over again. How do we feed all of these people? Thankfully,
+    humans are intelligent beasts and are figuring out ways to farm and produce
+    larger amounts of food using methods and techniques more sophisticated than ones
+    humanity has relied on in the past. The party is just getting started as farming
+    meets the era of big data. As more and more data is generated from farming,
+    techniques and processes become more sophisticated, cleaner, and more efficient.
+    The kind of data being analyzed to improve agricultural endeavours comes in many
+    forms, and can be statistical data like amount of food grown using how much land,
+    actual data generated from using farm tools and other smart farming equipment, or
+    any other kind of agricultural activity that can produce datafies actions and
+    procedures. However, data science is helping in other ways, too, as scientists and
+    engineers are taking advantage of all this newly available data and helping create
+    new technology to improve food production and increase yields  With all this new
+    information available, new farming endeavours are being undertaken. Farming within
+    closed systems such as urban or vertical farming, practicing precision agricultural
+    techniques, or even laboratories using genetics data on different plant strains to
+    crossbreed the various plant strains in order to produce new breeds that can grow
+    in the harshest of environments while using minimal resources. As the population
+    grows, we are finding that not only is the production of food vital, but also that
+    sustainable farming techniques are of paramount importance for long term
+    agricultural need. Data Science and its applications are most definitely changing
+    the way people produce food and the very nature of farming itself.
+
     author:
         - Ross Wood
+    chapter: Agriculture
     hid:
         - 345
-    title: TBD
+    status: 100%
+    title: Agricultural Data Science: Then, Now, and Beyond
     type: latex
     url: https://github.com/bigdata-i523/hid345/tree/master/project
