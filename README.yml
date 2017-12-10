@@ -105,5 +105,5 @@ project:
         - 345
     status: 100%
     title: "Agricultural Data Science"
-    type: unkown
+    type: paper
     url: https://github.com/bigdata-i523/hid345/tree/master/project
