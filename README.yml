@@ -24,7 +24,6 @@ paper1:
         - 345
     status: 100% re-review on 10/25/17
     title: Big Data Dangers Weaponizing Social Media
-    type: latex
     url: https://github.com/bigdata-i523/hid345/blob/master/paper1
 paper2:
     review: Nov 6 2017
@@ -60,7 +59,6 @@ paper2:
         - 345
     status: 100%
     title: How the Datafication of Activity is Improving Human Health
-    type: latex
     url: https://github.com/bigdata-i523/hid345/blob/master/paper2
 project:
     review: Dec 4 2017
